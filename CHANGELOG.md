@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.10.14](https://github.com/MTES-MCT/camino-flux/compare/v0.10.13...v0.10.14) (2020-05-12)
+
+
+### Features
+
+* **flux:** adapte l'appel de l'api suite au refacto de l'api ([#12](https://github.com/MTES-MCT/camino-flux/issues/12)) ([5442d99](https://github.com/MTES-MCT/camino-flux/commit/5442d99fc4e4af272a5f4b73d0b14f0a797562e9))
+
+
+### Bug Fixes
+
+* vérifie que Matomo site_id est un nombre ([d306254](https://github.com/MTES-MCT/camino-flux/commit/d306254b1eb96b210c81d0781486bdf07b15c80d))
+
 ### [0.10.13](https://github.com/MTES-MCT/camino-flux/compare/v0.10.12...v0.10.13) (2020-04-20)
 
 
