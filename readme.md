@@ -1,5 +1,7 @@
 # Camino flux
 
+**09 / 2020 : Ce repo est archivé et remplacé par les [flux GeoJSON générés par l'API Camino](https://docs.camino.beta.gouv.fr/pages/Utilisation/04-flux.html).**
+
 > Flux de données geojson de l'API de [Camino](https://camino.beta.gouv.fr): [flux.camino.beta.gouv.fr](https://flux.camino.beta.gouv.fr).
 >
 > [Instructions](https://github.com/MTES-MCT/camino-flux/tree/master/public)
